@@ -1,3 +1,4 @@
+//TODO: FIX TEST FILE
 describe("Merkle Multi-Sig Wallet Tests", () => {
   let walletKp, receiverKp, newAccountKp;
 
